@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">APIProject</string>
+    <string name="app_name">APIProject_ListView</string>
+    <string name="link"> http://api.myjson.com/bins/1g7osg%3c</string>
 </resources>
